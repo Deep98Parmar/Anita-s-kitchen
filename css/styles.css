@@ -1,1 +1,21 @@
 .cap{background-image: url(../images/backgrounds/landing.jpg);}
+#footer{ background-color: #F15A29;
+height: 40vh}
+#table{background-image: url(../images/backgrounds/subscribe.jpg);
+height:30vh;
+}
+.row-name{
+  width:76%;
+  margin-left: 13%;
+  height:80vh;
+  margin-top:2%;
+}
+#fast-food-descr{
+  text-align: left;
+}
+#ab{
+  text-align: right;
+}
+#fast-food-image{
+  box-shadow: 0 0 4px 4px #ccc;
+}
