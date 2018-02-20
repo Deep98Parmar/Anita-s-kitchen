@@ -1,6 +1,19 @@
-.cap{background-image: url(../images/backgrounds/landing.jpg);}
-#footer{ background-color: #F15A29;
-height: 40vh}
+.cap{background-image: url(../images/backgrounds/landing.jpg);
+background-position: top;
+padding-bottom: 12%;}
+#footer{ background-color: #EE7600 ;
+height: 40vh;
+}
+.header{text-align: center;
+  margin-top: 9%;
+  margin-left:7%;
+}
+
+.header3 {text-align: center;
+color: #ffffff;
+word-wrap: break-all;
+}
+
 #table{background-image: url(../images/backgrounds/subscribe.jpg);
 height:30vh;
 }
@@ -18,4 +31,18 @@ height:30vh;
 }
 #fast-food-image{
   box-shadow: 0 0 4px 4px #ccc;
+
 }
+#drinks_image{
+  box-shadow: 0 0 4px 4px #ccc
+  }
+
+.hamburger{
+text-align: center;
+padding-bottom: 12%;
+}
+
+#background{background-image: url(../images/backgrounds/foodsBg.jpg);
+padding-bottom: 25%;
+height:12vh;
+opacity: .96;}
